@@ -1,0 +1,11 @@
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\PCM600 - Barra auxiliar\PCM600_Plugin\PCM600_Plugin\bin\Debug\PCM600_Plugin.exe.config
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\PCM600 - Barra auxiliar\PCM600_Plugin\PCM600_Plugin\bin\Debug\PCM600_Plugin.exe
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\PCM600 - Barra auxiliar\PCM600_Plugin\PCM600_Plugin\bin\Debug\PCM600_Plugin.pdb
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\PCM600 - Barra auxiliar\PCM600_Plugin\PCM600_Plugin\obj\Debug\PCM600_Plugin.csproj.AssemblyReference.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\PCM600 - Barra auxiliar\PCM600_Plugin\PCM600_Plugin\obj\Debug\PCM600_Plugin.csproj.SuggestedBindingRedirects.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\PCM600 - Barra auxiliar\PCM600_Plugin\PCM600_Plugin\obj\Debug\PCM600_Plugin.Form1.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\PCM600 - Barra auxiliar\PCM600_Plugin\PCM600_Plugin\obj\Debug\PCM600_Plugin.Properties.Resources.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\PCM600 - Barra auxiliar\PCM600_Plugin\PCM600_Plugin\obj\Debug\PCM600_Plugin.csproj.GenerateResource.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\PCM600 - Barra auxiliar\PCM600_Plugin\PCM600_Plugin\obj\Debug\PCM600_Plugin.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\PCM600 - Barra auxiliar\PCM600_Plugin\PCM600_Plugin\obj\Debug\PCM600_Plugin.exe
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\PCM600 - Barra auxiliar\PCM600_Plugin\PCM600_Plugin\obj\Debug\PCM600_Plugin.pdb
